@@ -273,7 +273,7 @@ img {
   align-items: center;
   gap: 0.5rem;
   font-family: var(--font-mono);
-  font-size: 0.875rem;
+  font-size: 1.75rem;
   color: var(--text-secondary);
   transition: color 0.3s;
 }
